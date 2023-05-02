@@ -1,17 +1,17 @@
 # HB Theme Template
 
-The starter theme template of [HB Framework](https://hbstack.dev/), live demo: https://theme.hbstack.dev/.
+TThe Bdmeter theme of [BDM Framework](https://bdmeter.info), live demo: [Bdmeter](https://bdmeter.info).
 
 ## Documentations
 
-| English | 简体中文 |
+| English | Bengali |
 | ------- | -------- |
-| [Prerequisites](https://hbstack.dev/en/docs/getting-started/prerequisites/) | [先决条件](https://hbstack.dev/zh-hans/docs/getting-started/prerequisites/) |
-| [Installation](https://hbstack.dev/en/docs/getting-started/installation/) | [安裝](https://hbstack.dev/zh-hans/docs/getting-started/installation/) |
-| [Configuration](https://hbstack.dev/en/docs/configuration/) | [配置](https://hbstack.dev/zh-hans/docs/configuration/) |
-| [Content](https://hbstack.dev/en/docs/content/) | [内容](https://hbstack.dev/zh-hans/docs/content/) |
-| [Deployment](https://hbstack.dev/en/docs/deployment/) | [部署](https://hbstack.dev/zh-hans/docs/deployment/) |
-| [Modules](https://hbstack.dev/en/docs/modules/) | [模块](https://hbstack.dev/zh-hans/docs/modules/) |
+| [Prerequisites](https://hbstack.dev/en/docs/getting-started/prerequisites/) | [পূর্বশর্ত](https://hbstack.dev/zh-hans/docs/getting-started/prerequisites/) |
+| [Installation](https://hbstack.dev/en/docs/getting-started/installation/) | [ইনস্টল করুন](https://hbstack.dev/zh-hans/docs/getting-started/installation/) |
+| [Configuration](https://hbstack.dev/en/docs/configuration/) | [কনফিগারেশন](https://hbstack.dev/zh-hans/docs/configuration/) |
+| [Content](https://hbstack.dev/en/docs/content/) | [বিষয়বস্তু](https://hbstack.dev/zh-hans/docs/content/) |
+| [Deployment](https://hbstack.dev/en/docs/deployment/) | [স্থাপন](https://hbstack.dev/zh-hans/docs/deployment/) |
+| [Modules](https://hbstack.dev/en/docs/modules/) | [মডিউল](https://hbstack.dev/zh-hans/docs/modules/) |
 
 ## Features
 
